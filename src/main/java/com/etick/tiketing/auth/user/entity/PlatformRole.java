@@ -1,4 +1,4 @@
-package com.etick.tiketing.auth.entity;
+package com.etick.tiketing.auth.user.entity;
 
 public enum PlatformRole {
     // Everyone else — including organizer owners/staff, which is tracked

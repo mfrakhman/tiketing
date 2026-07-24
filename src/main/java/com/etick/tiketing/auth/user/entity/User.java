@@ -1,5 +1,6 @@
-package com.etick.tiketing.auth.entity;
+package com.etick.tiketing.auth.user.entity;
 
+import com.etick.tiketing.auth.token.entity.RefreshToken;
 import jakarta.persistence.*;
 import lombok.Getter;
 import lombok.Setter;
